@@ -1,0 +1,1 @@
+these are responsive cards made using tailwind css 
